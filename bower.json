@@ -1,0 +1,17 @@
+{
+  "name": "simple-game",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Waverley Design <charles@waverleydesigncompany.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
